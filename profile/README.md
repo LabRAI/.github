@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🛡️ Responsible AI (RAI) Lab @ FSU 🛡️
+# Responsible AI (RAI) Lab @ FSU
 
 ### Foundations of Responsible AI · Florida State University · Tallahassee, FL
 
 🔬 Dedicated to Making AI Trustworthy, Secure, and Fair 🤖
 
-[![Home Page](https://img.shields.io/badge/🏠_Home_Page-4285F4?style=for-the-badge&logoColor=white)](https://yushundong.github.io/students/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ)
-[![GitHub Stars](https://img.shields.io/github/stars/LabRAI?style=for-the-badge&logo=github&label=GitHub%20Stars&color=yellow)](https://github.com/LabRAI)
-[![Lab Email](https://img.shields.io/badge/✉️_Contact-yushun.dong@fsu.edu-red?style=for-the-badge)](mailto:yushun.dong@fsu.edu)
+[![Home Page](https://img.shields.io/badge/🏠_Home_Page-4285F4?style=flat&logoColor=white)](https://yushundong.github.io/students/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_QUhuOMAAAAJ)
+[![GitHub Stars](https://img.shields.io/github/stars/LabRAI?style=flat&logo=github&label=GitHub%20Stars&color=yellow)](https://github.com/LabRAI)
+[![Lab Email](https://img.shields.io/badge/✉️_Contact-yushun.dong@fsu.edu-red?style=flat)](mailto:yushun.dong@fsu.edu)
 
 </div>
 
